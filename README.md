@@ -6,7 +6,7 @@
 
 TIC professional with a background in PMO/Governance, Service Delivery and career consulting, now focused on designing and shipping **LLM-based agents** that automate real workflows — not demos. This profile brings together the agentic systems I build and the domains I apply them to.
 
-[Añade aquí 2-3 líneas sobre tu trayectoria/rol actual — esto es lo que un reclutador o cliente lee primero.]
+Senior IT Service Delivery & Governance Leader with 20+ years steering complex IT service environments, enterprise delivery models, and large-scale transformations across highly regulated industries (Banking, Insurance, and Telecom).
 
 ## 🧩 What I build
 
