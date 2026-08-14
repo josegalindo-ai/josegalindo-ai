@@ -19,11 +19,11 @@ TIC professional with a background in PMO/Governance, Service Delivery and caree
 
 | Repo | Description | Stack |
 |---|---|---|
-| [claudepro-ai-system](https://github.com/josegalindo-ai/claudepro-ai-system) | [Completa: Sistemas operativos en desarrollo] | markdown |
 | [PMO-OS](https://github.com/josegalindo-ai/PMO-OS) | Sistema operativo/framework para gobierno de proyectos | markdown / Python |
 | [Career-Command-Center](https://github.com/josegalindo-ai/Career-Command-Center) | Centro de gestión de carrera asistido por IA | markdown |
 | [Trading-Strategies](https://github.com/josegalindo-ai/Trading-Strategies) | Asistente inteligente para estrategias/analítica de trading | markdown |
 | [basic-ai-system](https://github.com/josegalindo-ai/basic-ai-system) | Configuración base para integraciones con ChatGPT y Gemini | Python |
+| [claudepro-ai-system](https://github.com/josegalindo-ai/claudepro-ai-system) | [Completa: Sistemas operativos en desarrollo] | markdown |
 
 *(Revisa que las URLs de arriba coincidan con los nombres finales tras la migración — algunos aún podrían estar en proceso de transferencia.)*
 
