@@ -20,7 +20,6 @@ Senior IT Service Delivery & Governance Leader with 20+ years steering complex I
 | Repo | Description | Stack |
 |---|---|---|
 | [PMO-OS](https://github.com/josegalindo-ai/PMO-OS) | Sistema operativo/framework para gobierno de proyectos | markdown / Python |
-| [Career-Command-Center](https://github.com/josegalindo-ai/Career-Command-Center) | Centro de gestión de carrera asistido por IA | markdown |
 | [Trading-Strategies](https://github.com/josegalindo-ai/Trading-Strategies) | Asistente inteligente para estrategias/analítica de trading | markdown |
 
 
