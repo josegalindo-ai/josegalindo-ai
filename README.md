@@ -12,7 +12,7 @@ Senior IT Service Delivery & Governance Leader with 20+ years steering complex I
 
 - 🤖 **AI/LLM Agents** — agentic tooling on top of ChatGPT, Gemini and Claude
 - 📊 **PMO & Governance automation** — agents that support project/program governance workflows
-- 💼 **Career management tools** — AI-assisted systems for career tracking and development
+- 💼 **Data management tools** — AI-assisted systems for data tracking and development
 - 📈 **Trading & market analysis** — agent-driven strategy and data tooling
 
 ## 🚀 Featured projects
@@ -22,10 +22,9 @@ Senior IT Service Delivery & Governance Leader with 20+ years steering complex I
 | [PMO-OS](https://github.com/josegalindo-ai/PMO-OS) | Sistema operativo/framework para gobierno de proyectos | markdown / Python |
 | [Career-Command-Center](https://github.com/josegalindo-ai/Career-Command-Center) | Centro de gestión de carrera asistido por IA | markdown |
 | [Trading-Strategies](https://github.com/josegalindo-ai/Trading-Strategies) | Asistente inteligente para estrategias/analítica de trading | markdown |
-| [basic-ai-system](https://github.com/josegalindo-ai/basic-ai-system) | Configuración base para integraciones con ChatGPT y Gemini | Python |
-| [claudepro-ai-system](https://github.com/josegalindo-ai/claudepro-ai-system) | [Completa: Sistemas operativos en desarrollo] | markdown |
 
-*(Revisa que las URLs de arriba coincidan con los nombres finales tras la migración — algunos aún podrían estar en proceso de transferencia.)*
+
+<!--*(Revisa que las URLs de arriba coincidan con los nombres finales tras la migración — algunos aún podrían estar en proceso de transferencia.)*-->
 
 ## 🛠️ Tech stack
 
