@@ -36,7 +36,7 @@ Senior IT Service Delivery & Governance Leader with 20+ years steering complex I
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/josegalindo/
-- Email: josegalindo.aidev@gmail.com
+- Email: josegalindoproai@gmail.com
 
 ---
 <sub>⭐ From ([josegalindo-ai](https://github.com/josegalindo-ai)) — consolidated into a single profile for clarity.</sub>
